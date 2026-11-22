@@ -1,0 +1,36 @@
+{
+  "initialized": true,
+  "licenses": [
+    {
+      "tradeLicenseNumber": "CN-5861148",
+      "adcciNumber": "8800103450",
+      "tradeName": "Anwar Altareq Delivery Services",
+      "licenseType": "Business",
+      "branch": "No",
+      "issuancePlace": "Abu Dhabi",
+      "establishmentDate": "21/04/2025",
+      "registrationDate": "01/05/2026",
+      "expiryDate": "30/04/2027",
+      "licenseStatus": "Issued",
+      "address": "العين, الكويت, بناية: الشيخ سعيد بن محمد بن خليفه آل نهيان",
+      "establishmentVolume": "No SMEs Classification",
+      "legalForm": "Sole Proprietorship L.L.C.",
+      "socialMediaAccount": "",
+      "socialMediaType": "",
+      "webSiteUrl": "",
+      "socialEnterpriseMaan": "No",
+      "licenseActivities": [
+        "Express Delivery Services and Parcels (5320009)",
+        "Letter-Post Dispatches Delivery (5320002)",
+        "Documents and Instruments Delivery (5320007)"
+      ]
+    }
+  ],
+  "admin": {
+    "id": 1,
+    "username": "admin",
+    "email": "admin@tamm.abudhabi",
+    "name": "Administrator",
+    "password": "admin"
+  }
+}

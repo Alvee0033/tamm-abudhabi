@@ -1,0 +1,11 @@
+
+> tamm-verify@0.1.0 dev
+> next dev --port 3333
+
+▲ Next.js 16.3.8 (Turbopack)
+- Local:         http://localhost:3333
+- Network:       http://192.168.1.117:3333
+✓ Ready in 227ms
+✓ Running next.config.ts took 23ms
+
+✓ Generated AGENTS.md and CLAUDE.md for AI agents. Set `agentRules: false` in next.config to disable.
